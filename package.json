@@ -3,7 +3,7 @@
     "displayName": "cindrmon1899s-extension-pack",
     "description": "For some unknown reason, I use this to be my main Extension Pack.",
     "publisher": "cindrmon1899",
-    "version": "v1.0.0",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.55.0"
     },
