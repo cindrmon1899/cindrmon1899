@@ -1,0 +1,15 @@
+{
+    "name": "cindrmon1899",
+    "displayName": "cindrmon1899",
+    "description": "For some unknown reason, I use this to be my main Extension Pack.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
