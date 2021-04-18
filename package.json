@@ -9,7 +9,39 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "publisher.extensionName"
-    ]
+    "extensionPack": [
+		"eamodio.gitlens",
+		"jgclark.vscode-todo-highlight",
+		"Gruntfuggly.todo-tree",
+		"mhutchie.git-graph",
+		"codezombiech.gitignore",
+		"alefragnani.Bookmarks",
+		"oderwat.indent-rainbow",
+		"CoenraadS.bracket-pair-colorizer-2",
+		"christian-kohler.path-intellisense",
+		"bam.vscode-file-templates",
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"tombonnike.vscode-status-bar-format-toggle",
+		"Wscats.eno",
+		"monokai.theme-monokai-pro-vscode",
+		"kiteco.kite",
+		"icrawl.discord-vscode",
+		"vscodevim.vim",
+		"ms-vscode.sublime-keybindings",
+		"ritwickdey.LiveServer",
+		"gencer.html-slim-scss-css-class-completion",
+		"janne252.fontawesome-autocomplete",
+		"jaspernorth.vscode-pigments",
+		"anseki.vscode-color",
+		"bradlc.vscode-tailwindcss",
+		"austenc.tailwind-docs",
+		"octref.vetur",
+		"hollowtree.vue-snippets",
+		"rusnasonov.vscode-hugo",
+		"budparr.language-hugo-vscode",
+		"kaellarkin.hugo-shortcode-syntax",
+		"graphql.vscode-graphql",
+		"sophisticode.php-formatter"
+	]
 }
