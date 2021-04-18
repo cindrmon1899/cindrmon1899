@@ -43,5 +43,10 @@
 		"kaellarkin.hugo-shortcode-syntax",
 		"graphql.vscode-graphql",
 		"sophisticode.php-formatter"
-	]
+	],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cindrmon1899/cindrmon1899"
+    },
+    "icon": "Cinderworks-extension-pack.png"
 }
