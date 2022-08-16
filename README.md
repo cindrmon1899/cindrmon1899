@@ -1,4 +1,14 @@
+# Update!
+
+> **This account is now gonna be archived! I'm not gonna use this account anymore! All of my web dev codes are now being moved to my [Gitlab](https://gitlab.com/cindrmon/). Thank you!**
+
+---
+---
+---
+
 # Hello! I am cindrmon1899!
+
+
 
 I am just a forked copy of [cindrmon](https://github.com/cindrmon), specifically designed to do Web Development Tasks, as I have different plans from my main account. 
 
